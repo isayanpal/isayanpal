@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isayanpal&show_icons=true&locale=en" alt="isayanpal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isayanpal&" alt="isayanpal" /></p>
+
+[![@isay's Holopin board](https://holopin.me/isay)](https://holopin.io/@isay)
