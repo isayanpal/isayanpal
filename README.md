@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/sayanstwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayanstwt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sayan-snigdha-pal-bbb3a3238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-snigdha-pal-bbb3a3238" height="30" width="40" /></a>
+<a href="https://instagram.com/justtt.sayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justtt.sayan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,6 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isayanpal&show_icons=true&theme=dark&title_color=42f2ff&text_color=db2424&locale=en" alt="isayanpal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isayanpal&" alt="isayanpal" /></p>
+
 
 
 [![@isay's Holopin board](https://holopin.me/isay)](https://holopin.io/@isay)
