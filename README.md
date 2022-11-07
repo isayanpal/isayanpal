@@ -25,7 +25,7 @@
 
 
 
-[![@isay's Holopin board](https://holopin.me/isay)](https://holopin.io/@isay)
+
 
 
 
