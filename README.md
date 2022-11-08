@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend Development**
 
-- 💬 I'm familiar with **Python | JAVA |C |Kotlin**
+- 💬 I'm familiar with **Python | JAVA |C**
 
 - ⚡ Fun fact **I admire Peter Parker more than Tony Stark!**
 
