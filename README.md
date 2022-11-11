@@ -21,7 +21,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isayanpal&show_icons=true&theme=dark&title_color=ff4242&text_color=32e0ec&locale=en" alt="isayanpal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isayanpal&" alt="isayanpal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isayanpal&theme=dark" alt="isayanpal" /></p>
+
 
 
 
