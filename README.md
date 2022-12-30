@@ -22,3 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isayanpal&show_icons=true&theme=dark&title_color=ff4242&text_color=32e0ec&locale=en" alt="isayanpal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isayanpal&theme=dark" alt="isayanpal" /></p>
+
+
+
+[![An image of @isay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isay)](https://holopin.io/@isay)
