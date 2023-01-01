@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan!</h1>
-<h3 align="center">A Software Engineering Undergrad who has interest in frontend development and UI/UX design!</h3>
+<h3 align="center">A Software Engineering Undergrad who has interest in Frontend development and UI/UX design!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isayanpal&label=Profile%20views&color=0e75b6&style=flat" alt="isayanpal" /> </p>
 
