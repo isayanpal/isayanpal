@@ -1,5 +1,7 @@
+![Profile Banner](https://user-images.githubusercontent.com/102523492/221378234-df75c25f-4333-4c6e-8ad6-195dc53a7ae7.png)
+
 <h1 align="center">Hi 👋, I'm Sayan!</h1>
-<h3 align="center">I am currently a Software Engineering Undergrad pursuing my B.Tech on Computer Science. I m a passionate Frontend Web-Developer. I do UI designs as a hobby.</h3>
+<h3 align="center">I am currently a Software Engineering Undergrad pursuing my B.Tech on Computer Science. I m a passionate Frontend Web-Developer and I'm also proficient making UI designs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isayanpal&label=Profile%20views&color=0e75b6&style=flat" alt="isayanpal" /> </p>
 
@@ -28,9 +30,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isayanpal&theme=dark" alt="isayanpal" /></p>
 
 
-
-
-
-
-
-[![An image of @isay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isay)](https://holopin.io/@isay)
+## Achievements 🏆🎉
+- 2nd Prize in <a href="https://devpost.com/software/my-listed-habits-mlh">Hacky New Year Hackathon</a>
+- <a href="https://www.linkedin.com/posts/sayan-snigdha-pal-bbb3a3238_hacktoberfest2022-hacktoberfest-swags-activity-7031565461225947136-8G5y?utm_source=share&utm_medium=member_desktop">Digital Ocean Hacktoberfest Qualified (2022)</a>
