@@ -30,4 +30,4 @@
 
 ## Achievements 🏆🎉
 - 2nd Prize in <a href="https://devpost.com/software/my-listed-habits-mlh">Hacky New Year Hackathon</a>
-- <a href="https://www.linkedin.com/posts/sayan-snigdha-pal-bbb3a3238_hacktoberfest2022-hacktoberfest-swags-activity-7031565461225947136-8G5y?utm_source=share&utm_medium=member_desktop">Digital Ocean Hacktoberfest Qualified (2022)</a>
+- <a href="https://www.linkedin.com/posts/sayan-snigdha-pal_hacktoberfest2022-hacktoberfest-swags-activity-7031565461225947136-XUbn?utm_source=share&utm_medium=member_desktop">Digital Ocean Hacktoberfest Qualified (2022)</a>
