@@ -4,7 +4,7 @@
 <h3 align="center"> I m a Software Developer trying to build projects and learn from it. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isayanpal&label=Profile%20views&color=0e75b6&style=flat" alt="isayanpal" /> </p>
 
-<img align="right" width="300" height="300" src="https://media.baamboozle.com/uploads/images/1114175/1675088036_149691_gif-url.gif"  />
+<img align="right"  height="300" src="https://media.baamboozle.com/uploads/images/1114175/1675088036_149691_gif-url.gif"  />
 
 
 - 🌱 I’m currently exploring **MERN Stack**
