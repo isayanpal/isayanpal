@@ -26,14 +26,14 @@
             <th>⏰Timeline </th>
         </tr>
         <tr>
-            <td><b>Frontend Developer</b></td>
-            <td><a href="https://www.linkedin.com/company/v-books/?originalSubdomain=in"><b>V-Books</b></a></td>
-            <td><b>July 2023 - September 2023</b></td>
-        </tr>
-        <tr>
             <td><b>Software Development Intern</b></td>
             <td><a href="https://www.pephub.tech/"><b>Pephub</b></a></td>
             <td><b>August 2023 - Present</b></td>
+        </tr>
+        <tr>
+            <td><b>Frontend Developer</b></td>
+            <td><a href="https://www.linkedin.com/company/v-books/?originalSubdomain=in"><b>V-Books</b></a></td>
+            <td><b>July 2023 - September 2023</b></td>
         </tr>
     </table>
 
