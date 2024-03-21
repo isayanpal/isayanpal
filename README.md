@@ -15,9 +15,7 @@
 - 📫 How to reach me **sayanpalb@gmail.com**
 
 - ⚡ Fun fact **I admire Peter Parker more than Tony Stark!**
-
-
-
+<br>
 
 ## Experience
 <table border="1">
