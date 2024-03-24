@@ -43,8 +43,8 @@
 
 
 ## Achievements 🏆🎉
+- Hosted <b>SPYDER, the Web Development event of Ureckon'24 at UEM Kolkata</b>, in the role of coordinator.
 - Won <b>2nd</b> Prize in <a href="https://devpost.com/software/my-listed-habits-mlh">Hacky New Year Hackathon 2023</a>
-- Hosted <b>SPYDER, the Web Development event of Ureckon at UEM Kolkata</b>, in the role of coordinator.
 - <a href="https://www.linkedin.com/posts/sayan-snigdha-pal_hacktoberfest2022-hacktoberfest-swags-activity-7031565461225947136-XUbn?utm_source=share&utm_medium=member_desktop">Digital Ocean Hacktoberfest Qualified (2022)</a>
 
 
