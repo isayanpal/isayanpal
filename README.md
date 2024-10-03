@@ -10,7 +10,7 @@
 
 
 
-- 💬 I'm familiar with **C | JAVA**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **sayanpalb@gmail.com**
 
