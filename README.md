@@ -1,5 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=isayanpal&label=Profile%20views&color=0e75b6&style=flat" alt="isayanpal" />
 
+<p align="center"><img src="images/github-profile.png" alt="Cover Image" /></p>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sayan!;" />
 </h1>
@@ -13,9 +15,9 @@
  
  💬 Ask me about **MERN**
 
- 📫 How to reach me **sayanpalb@gmail.com**
+📫 How to reach me **sayanpalb@gmail.com**
 
- ⚡ Fun fact **I admire Peter Parker more than Tony Stark!**
+⚡ Fun fact **I admire Peter Parker more than Tony Stark!**
 
  </div>
 
