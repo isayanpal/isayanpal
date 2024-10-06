@@ -103,12 +103,8 @@ Won <b>2nd</b> Prize in <a href="https://devpost.com/software/my-listed-habits-m
 <div align="center">
   <img width=390 style="margin-right: 25px;" src="https://github-readme-streak-stats.herokuapp.com/?user=isayanpal&count_private=true&theme=react&hide_border=false&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=isayanpal&count_private=true&show_icons=true&theme=react&rank_icon=github&hide_border=false&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isayanpal&hide=HTML&langs_count=8&layout=compact&theme=react&hide_border=false&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
-
 <br/>
-
 <div align=center>
     <img src="profile-3d-contrib/profile-night-view.svg" height="500" alt="Profile 3D Contrib">
 </div>
