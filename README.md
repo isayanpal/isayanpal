@@ -32,6 +32,11 @@
             <th>⏰Timeline </th>
         </tr>
         <tr>
+            <td><b>Frontend Developer</b></td>
+            <td><a href="https://www.linkedin.com/company/rad-media-solutions/"><b>RAD Media Solutions</b></a></td>
+            <td><b>Nov 2024 - Present</b></td>
+        </tr>
+        <tr>
             <td><b>Software Developer Intern</b></td>
             <td><a href="https://www.pephub.tech/"><b>Pephub</b></a></td>
             <td><b>Aug 2023 - Nov 2023</b></td>
