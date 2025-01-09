@@ -102,13 +102,13 @@ Won <b>2nd</b> Prize in <a href="https://devpost.com/software/my-listed-habits-m
         <br/>
         <img src="https://skillicons.dev/icons?i=npm,vite,netlify,vercel"/>
 <br>
-</div>
+<!-- </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align="center">
-  <img width=390 style="margin-right: 25px;" src="https://github-readme-streak-stats.herokuapp.com/?user=isayanpal&count_private=true&theme=react&hide_border=false&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=isayanpal&count_private=true&show_icons=true&theme=react&rank_icon=github&hide_border=false&border_radius=10" alt="readme stats" />
-</div>
+<!-- <h2 align="center">⚡ Stats ⚡</h2> -->
+<!-- <div align="center"> -->
+<!--  <img width=390 style="margin-right: 25px;" src="https://github-readme-streak-stats.herokuapp.com/?user=isayanpal&count_private=true&theme=react&hide_border=false&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=isayanpal&count_private=true&show_icons=true&theme=react&rank_icon=github&hide_border=false&border_radius=10" alt="readme stats" /> -->
+<!-- </div> -->
 <br/>
 <div align=center>
     <img src="profile-3d-contrib/profile-night-view.svg" height="500" alt="Profile 3D Contrib">
