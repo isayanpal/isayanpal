@@ -39,7 +39,7 @@
         <tr>
             <td><b>Software Developer Intern</b></td>
             <td><a href="https://www.pephub.tech/"><b>Pephub</b></a></td>
-            <td><b>Aug 2023 - Nov 2023</b></td>
+            <td><b>Aug 2023 - March 2024</b></td>
         </tr>
         <tr>
             <td><b>Web Developer Intern</b></td>
@@ -63,6 +63,11 @@
             <td><b>Student Coordinator</b></td>
             <td><a href="https://gdg.community.dev/gdg-on-campus-university-of-engineering-management-kolkata-india/"><b>GDG UEMK</b></a></td>
             <td><b>Oct 24 - Present</b></td>
+        </tr>
+        <tr>
+            <td><b>Task Force</b></td>
+            <td><a href="https://ureckon.uem.edu.in/"><b>Ureckon</b></a></td>
+            <td><b>Dec 24 - March 25</b></td>
         </tr>
         <tr>
             <td><b>Event Coordinator</b></td>
