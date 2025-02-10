@@ -34,7 +34,7 @@
         <tr>
             <td><b>Frontend Developer</b></td>
             <td><a href="https://www.linkedin.com/company/rad-media-solutions/"><b>RAD Media Solutions</b></a></td>
-            <td><b>Nov 2024 - Present</b></td>
+            <td><b>Nov 2024 - Jan 2025</b></td>
         </tr>
         <tr>
             <td><b>Software Developer Intern</b></td>
