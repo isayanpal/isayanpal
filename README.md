@@ -24,7 +24,7 @@
         <tr>
             <td><b>Software Developer Intern</b></td>
             <td><a href="https://www.pephub.tech/"><b>Pephub</b></a></td>
-            <td><b>Aug 2023 - March 2024</b></td>
+            <td><b>Aug 2023 - Nov 2023</b></td>
         </tr>
         <tr>
             <td><b>Web Developer Intern</b></td>
