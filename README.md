@@ -76,7 +76,7 @@ Won <b>1st</b> Prize in <a href="https://www.linkedin.com/posts/sayan-snigdha-pa
         <br/>
 Won <b>2nd</b> Prize in <a href="https://devpost.com/software/my-listed-habits-mlh">Hacky New Year Hackathon 2023</a>
 <br/>
-<a href="https://www.linkedin.com/posts/sayan-snigdha-pal_hacktoberfest2022-hacktoberfest-swags-activity-7031565461225947136-XUbn?utm_source=share&utm_medium=member_desktop">Digital Ocean Hacktoberfest Qualified (2022)</a>        
+Qualified <a href="https://www.linkedin.com/posts/sayan-snigdha-pal_hacktoberfest2022-hacktoberfest-swags-activity-7031565461225947136-XUbn?utm_source=share&utm_medium=member_desktop">Digital Ocean Hacktoberfest (2022)</a>        
 </div>
 
 <br/>
