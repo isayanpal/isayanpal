@@ -1,118 +1,55 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=isayanpal&label=Profile%20views&color=0e75b6&style=flat" alt="isayanpal" />
+<img src="https://komarev.com/ghpvc/?username=isayanpal&style=for-the-badge&color=FF4C4C&label=VISITORS&labelColor=000000" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Sayan!;" />
-</h1>
 
-<h3 align="center">I am a passionate Web Developer skilled in building scalable web applications using React, Node.js, Express.js, and MongoDB. I leverage Next.js for server-side rendering. Proficient in Git and GitHub, I excel in collaboration and version control, constantly applying modern technologies to create innovative solutions.</h3>
+# 👋 Hi There! I'm Sayan
 
- <br/>
+I'm a full-stack web Developer and software engineer passionate about crafting impactful digital products. I’m open to freelance projects and engineering roles where I can solve real-world problems, collaborate with great teams, and keep pushing the boundaries of what I build.
 
-<h2 align="center">🖥️ Experience 🖥️</h2>
-<div align="center">
-        <table border="1">
-        <tr>
-            <th>💼 Designation</th>
-            <th>🏢Organization</th>
-            <th>⏰Timeline </th>
-        </tr>
-        <tr>
-            <td><b>Frontend Developer</b></td>
-            <td><a href="https://www.linkedin.com/company/rad-media-solutions/"><b>RAD Media Solutions</b></a></td>
-            <td><b>Nov 2024 - Feb 2025</b></td>
-        </tr>
-        <tr>
-            <td><b>Software Developer Intern</b></td>
-            <td><a href="https://www.pephub.tech/"><b>Pephub</b></a></td>
-            <td><b>Aug 2023 - Nov 2023</b></td>
-        </tr>
-        <tr>
-            <td><b>Web Developer Intern</b></td>
-            <td><a href="https://www.linkedin.com/company/v-books/?originalSubdomain=in"><b>V-Books</b></a></td>
-            <td><b>July 2023 - Sept 2023</b></td>
-        </tr>
-    </table>
-</div>
+<p align="left"><a href="https://isayanpal.vercel.app"><img src="https://raw.githubusercontent.com/tamalCodes/isayanpal/main/Button.png"></a></p>
 
 <br/>
+Here’s a quick overview of my skills and achievements:
 
-<h2 align="center">🙋‍♂️ Volunteering 🖥️</h2>
-<div align="center">
-        <table border="1">
-        <tr>
-            <th>💼 Designation</th>
-            <th>🏢Organization</th>
-            <th>⏰Timeline </th>
-        </tr>
-        <tr>
-            <td><b>Student Coordinator</b></td>
-            <td><a href="https://gdg.community.dev/gdg-on-campus-university-of-engineering-management-kolkata-india/"><b>GDG UEMK</b></a></td>
-            <td><b>Oct 24 - Present</b></td>
-        </tr>
-        <tr>
-            <td><b>Task Force</b></td>
-            <td><a href="https://ureckon.uem.edu.in/"><b>Ureckon</b></a></td>
-            <td><b>Dec 24 - March 25</b></td>
-        </tr>
-        <tr>
-            <td><b>Event Coordinator</b></td>
-            <td><a href="https://ureckon.uem.edu.in/"><b>Ureckon</b></a></td>
-            <td><b>Jan 24 - Feb 24</b></td>
-        </tr>
-        <tr>
-            <td><b>Web Developer</b></td>
-            <td><a href="https://ureckon.uem.edu.in/"><b>Ureckon</b></a></td>
-            <td><b>Dec 23 - Feb 24</b></td>
-        </tr>
-    </table>
-</div>
+Strong proficiency in JavaScript, Typescript, Reactjs, Nextjs, MongoDB, Node.js, Firebase, Supabase and other related technologies.
 
-<br/>
+- Quick learner, adept at picking up new technologies fast.
+- Growing communication skills, always working on improving.
+- Effective use of AI tools to enhance productivity and speed up development.
+- Built impactful softwares for clients while I was interning at RAD Media Solutions.
+- Helped softwares like Matricula & Pephub is scaling to handle in increase upto 60% user retention by working mainly on their frontend.
 
-<h2 align="center"> Achievements 🏆🎉 </h2>
-<div align="center">
-        
-Won <b>1st</b> Prize in <a href="https://www.linkedin.com/posts/sayan-snigdha-pal_winner-webdevelopment-grateful-activity-7246589971577331712-sIes?utm_source=share&utm_medium=member_desktop">Orion Web Dev Hackathon 2024</a> 
-        <br/>
-Won <b>2nd</b> Prize in <a href="https://devpost.com/software/my-listed-habits-mlh">Hacky New Year Hackathon 2023</a>
-<br/>
-Qualified <a href="https://www.linkedin.com/posts/sayan-snigdha-pal_hacktoberfest2022-hacktoberfest-swags-activity-7031565461225947136-XUbn?utm_source=share&utm_medium=member_desktop">Digital Ocean Hacktoberfest (2022)</a>        
-</div>
+## 🖥️ Professional Experience
 
-<br/>
+<table border="1">
+  <tr>
+    <th>💼 Designation</th>
+    <th>🏢 Organization</th>
+    <th>⏰ Timeline</th>
+  </tr>
+  <tr>
+    <td><b>Frontend Developer</b></td>
+    <td><a href="https://www.linkedin.com/company/rad-media-solutions/"><b>RAD Media Solutions</b></a></td>
+    <td><b>Nov 2024 - Feb 2025</b></td>
+  </tr>
+  <tr>
+    <td><b>Software Developer Intern</b></td>
+    <td><a href="https://www.pephub.tech/"><b>Pephub</b></a></td>
+    <td><b>Aug 2023 - Nov 2023</b></td>
+  </tr>
+  <tr>
+    <td><b>Web Developer Intern</b></td>
+    <td><a href="https://www.linkedin.com/company/v-books/?originalSubdomain=in"><b>V-Books</b></a></td>
+    <td><b>July 2023 - Sept 2023</b></td>
+  </tr>
+</table>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,idea,figma" />
-        <br/>
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,c,java" />
-            <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,firebase,supabase" />
-        <img src="https://skillicons.dev/icons?i=git,github,prisma,postman,docker" />
-        <br/>
-        <img src="https://skillicons.dev/icons?i=npm,vite,netlify,vercel"/>
-<br>
-<!-- </div>
 
-<!-- <h2 align="center">⚡ Stats ⚡</h2> -->
-<!-- <div align="center"> -->
-<!--  <img width=390 style="margin-right: 25px;" src="https://github-readme-streak-stats.herokuapp.com/?user=isayanpal&count_private=true&theme=react&hide_border=false&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=isayanpal&count_private=true&show_icons=true&theme=react&rank_icon=github&hide_border=false&border_radius=10" alt="readme stats" /> -->
-<!-- </div> -->
-<br/>
-<div align=center>
-    <img src="profile-3d-contrib/profile-night-view.svg" height="500" alt="Profile 3D Contrib">
-</div>
-<h2 align="center">🌐 Socials</h2>
-<div align="center"> 
-  
-  <a href="https://linkedin.com/in/sayan-snigdha-pal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-<a href="https://x.com/sayanstwt" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://isayanpal.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
-</div>
+
+## 💡 Community and Achievements
+
+- 🥇 **1st Prize** – [Orion Web Dev Hackathon 2024](https://www.linkedin.com/posts/sayan-snigdha-pal_winner-webdevelopment-grateful-activity-7246589971577331712-sIes?utm_source=share&utm_medium=member_desktop)
+- 🥈 **2nd Prize** – [Hacky New Year Hackathon 2023](https://devpost.com/software/my-listed-habits-mlh)
+- ✅ Qualified – [Digital Ocean Hacktoberfest 2022](https://www.linkedin.com/posts/sayan-snigdha-pal_hacktoberfest2022-hacktoberfest-swags-activity-7031565461225947136-XUbn?utm_source=share&utm_medium=member_desktop)
+- 👨‍💼 **Student Coordinator** at [GDG UEMK](https://gdg.community.dev/gdg-on-campus-university-of-engineering-management-kolkata-india/) (Oct 2024 – Present)
+- 🔧 **Task Force**, **Event Coordinator**, and **Web Developer** at [Ureckon](https://ureckon.uem.edu.in/) (Dec 2023 – Mar 2025)
+
