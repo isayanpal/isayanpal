@@ -20,7 +20,7 @@ Strong proficiency in JavaScript, Typescript, Reactjs, Nextjs, MongoDB, Node.js,
 - Quick learner, adept at picking up new technologies fast.
 - Growing communication skills, always working on improving.
 - Effective use of AI tools to enhance productivity and speed up development.
-- Built impactful softwares for clients while I was interning at RAD Media Solutions.
+- Built impactful softwares for clients when I was interning at RAD Media Solutions.
 - Helped softwares like Matricula & Pephub is scaling to handle in increase upto 60% user retention by working mainly on their frontend.
 
 ## 🖥️ Professional Experience
@@ -32,7 +32,7 @@ Strong proficiency in JavaScript, Typescript, Reactjs, Nextjs, MongoDB, Node.js,
     <th>⏰ Timeline</th>
   </tr>
   <tr>
-    <td><b>Frontend Developer</b></td>
+    <td><b>Frontend Developer Intern</b></td>
     <td><a href="https://www.linkedin.com/company/rad-media-solutions/" target="_blank"><b>RAD Media Solutions</b></a></td>
     <td><b>Nov 2024 - Feb 2025</b></td>
   </tr>
