@@ -5,7 +5,12 @@
 
 I'm a full-stack web Developer and software engineer passionate about crafting impactful digital products. I’m open to freelance projects and engineering roles where I can solve real-world problems, collaborate with great teams, and keep pushing the boundaries of what I build.
 
-<p align="left"><a href="https://isayanpal.vercel.app"><img src="https://raw.githubusercontent.com/tamalCodes/isayanpal/main/Button.png"></a></p>
+<p align="left">
+  <a href="https://isayanpal.vercel.app">
+    <img src="https://raw.githubusercontent.com/isayanpal/isayanpal/main/Button.png" width="300">
+  </a>
+</p>
+
 
 <br/>
 Here’s a quick overview of my skills and achievements:
