@@ -6,7 +6,7 @@
 I'm a full-stack web Developer and software engineer passionate about crafting impactful digital products. I’m open to freelance projects and engineering roles where I can solve real-world problems, collaborate with great teams, and keep pushing the boundaries of what I build.
 
 <p align="left">
-  <a href="https://isayanpal.vercel.app">
+  <a href="https://isayanpal.vercel.app" target="_blank">
     <img src="https://raw.githubusercontent.com/isayanpal/isayanpal/main/Button.png" width="300">
   </a>
 </p>
@@ -33,17 +33,17 @@ Strong proficiency in JavaScript, Typescript, Reactjs, Nextjs, MongoDB, Node.js,
   </tr>
   <tr>
     <td><b>Frontend Developer</b></td>
-    <td><a href="https://www.linkedin.com/company/rad-media-solutions/"><b>RAD Media Solutions</b></a></td>
+    <td><a href="https://www.linkedin.com/company/rad-media-solutions/" target="_blank"><b>RAD Media Solutions</b></a></td>
     <td><b>Nov 2024 - Feb 2025</b></td>
   </tr>
   <tr>
     <td><b>Software Developer Intern</b></td>
-    <td><a href="https://www.pephub.tech/"><b>Pephub</b></a></td>
+    <td><a href="https://www.pephub.tech/" target="_blank"><b>Pephub</b></a></td>
     <td><b>Aug 2023 - Nov 2023</b></td>
   </tr>
   <tr>
     <td><b>Web Developer Intern</b></td>
-    <td><a href="https://www.linkedin.com/company/v-books/?originalSubdomain=in"><b>V-Books</b></a></td>
+    <td><a href="https://www.linkedin.com/company/v-books/?originalSubdomain=in" target="_blank"><b>V-Books</b></a></td>
     <td><b>July 2023 - Sept 2023</b></td>
   </tr>
 </table>
