@@ -3,7 +3,7 @@
 
 # 👋 Hi There! I'm Sayan
 
-I'm a full-stack web Developer and software engineer passionate about crafting impactful digital products. I’m open to freelance projects and engineering roles where I can solve real-world problems, collaborate with great teams, and keep pushing the boundaries of what I build.
+I'm a full-stack web developer and software engineer passionate about crafting impactful digital products. I’m open to freelance projects and engineering roles where I can solve real-world problems, collaborate with great teams, and keep pushing the boundaries of what I build.
 
 <p align="left">
   <a href="https://isayanpal.vercel.app" target="_blank">
