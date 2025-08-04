@@ -58,4 +58,6 @@ Strong proficiency in JavaScript, Typescript, Reactjs, Nextjs, MongoDB, Node.js,
 - 👨‍💼 **Student Coordinator** at [GDG UEMK](https://gdg.community.dev/gdg-on-campus-university-of-engineering-management-kolkata-india/) (Oct 2024 – Present)
 - 🔧 **Task Force**, **Event Coordinator**, and **Web Developer** at [Ureckon](https://ureckon.uem.edu.in/) (Dec 2023 – Mar 2025)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=isayanpal&theme=dark&hide_border=true&background=00000000)</br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isayanpal&theme=dark&hide_border=true&langs_count=6&include_all_commits=true&count_private=true&bg_color=00000000&layout=compact&hide=jupyter%20notebook)</br>
