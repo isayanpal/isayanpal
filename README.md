@@ -32,19 +32,24 @@ Strong proficiency in JavaScript, Typescript, Reactjs, Nextjs, MongoDB, Node.js,
     <th>⏰ Timeline</th>
   </tr>
   <tr>
+    <td><b>Frontend Engineer</b></td>
+    <td><a href="https://www.linkedin.com/company/perccent/" target="_blank"><b>Perccent</b></a></td>
+    <td><b>Aug'25 - Present</b></td>
+  </tr>
+  <tr>
     <td><b>Frontend Developer Intern</b></td>
     <td><a href="https://www.linkedin.com/company/rad-media-solutions/" target="_blank"><b>RAD Media Solutions</b></a></td>
-    <td><b>Nov 2024 - Feb 2025</b></td>
+    <td><b>Nov'24 - Feb'25</b></td>
   </tr>
   <tr>
     <td><b>Frontend Developer Intern</b></td>
     <td><a href="https://www.pephub.tech/" target="_blank"><b>Pephub</b></a></td>
-    <td><b>Aug 2023 - Nov 2023</b></td>
+    <td><b>Aug'23 - Nov'23</b></td>
   </tr>
   <tr>
     <td><b>Frontend Developer Intern</b></td>
     <td><a href="https://www.linkedin.com/company/v-books/?originalSubdomain=in" target="_blank"><b>V-Books</b></a></td>
-    <td><b>July 2023 - Sept 2023</b></td>
+    <td><b>Jul'23 - Sept'23</b></td>
   </tr>
 </table>
 
