@@ -15,13 +15,13 @@ I'm a full-stack web developer and software engineer passionate about crafting i
 <br/>
 Here’s a quick overview of my skills and achievements:
 
-Strong proficiency in JavaScript, Typescript, Reactjs, Nextjs, MongoDB, Node.js, Firebase, Supabase and other related technologies.
+- Strong proficiency in JavaScript, TypeScript, React.js, Next.js, Node.js, MongoDB, Firebase, Supabase, and modern UI libraries like TailwindCSS and Shadcn UI.
+- Fast learner with the ability to quickly adapt to new technologies and project requirements.
+- Continuously improving communication skills and cross-team collaboration.
+- Efficient at leveraging AI tools to accelerate development, enhance code quality, and streamline workflows.
+- Delivered impactful, production-ready software during my internship at RAD Media Solutions, resolving critical issues and improving app reliability.
+- Contributed significantly to improving user experience and retention at Pephub and Matricula, helping these platforms scale with more stable, optimized frontend systems.
 
-- Quick learner, adept at picking up new technologies fast.
-- Growing communication skills, always working on improving.
-- Effective use of AI tools to enhance productivity and speed up development.
-- Built impactful softwares for clients when I was interning at RAD Media Solutions.
-- Helped softwares like Matricula & Pephub is scaling to handle in increase upto 60% user retention by working mainly on their frontend.
 
 ## 🖥️ Professional Experience
 
