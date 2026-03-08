@@ -20,7 +20,7 @@ Frontend Systems Engineer building scalable, reliable products with React and Ty
     <th>⏰ Timeline</th>
   </tr>
   <tr>
-    <td><b>Frontend Engineer</b></td>
+    <td><b>Software Engineer</b></td>
     <td><a href="https://www.linkedin.com/company/perccent/" target="_blank"><b>Perccent</b></a></td>
     <td><b>Aug'25 - Present</b></td>
   </tr>
