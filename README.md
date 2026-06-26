@@ -48,7 +48,7 @@ Frontend Systems Engineer building scalable, reliable products with React and Ty
 - 🥇 **1st Prize** – [Orion Web Dev Hackathon 2024](https://www.linkedin.com/posts/sayan-snigdha-pal_winner-webdevelopment-grateful-activity-7246589971577331712-sIes?utm_source=share&utm_medium=member_desktop)
 - 🥈 **2nd Prize** – [Hacky New Year Hackathon 2023](https://devpost.com/software/my-listed-habits-mlh)
 - ✅ Qualified – [Digital Ocean Hacktoberfest 2022](https://www.linkedin.com/posts/sayan-snigdha-pal_hacktoberfest2022-hacktoberfest-swags-activity-7031565461225947136-XUbn?utm_source=share&utm_medium=member_desktop)
-- 👨‍💼 **Student Coordinator** at [GDG UEMK](https://gdg.community.dev/gdg-on-campus-university-of-engineering-management-kolkata-india/) (Oct 2024 – Aug 2025)
+- 👨‍💼 **Student Coordinator** at [Google Developer Groups UEMK](https://gdg.community.dev/gdg-on-campus-university-of-engineering-management-kolkata-india/) (Oct 2024 – Aug 2025)
 - 🔧 **Task Force**, **Event Coordinator**, and **Web Developer** at [Ureckon](https://ureckon.uem.edu.in/) (Dec 2023 – Mar 2025)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=isayanpal&theme=dark&hide_border=true&background=00000000)</br>
