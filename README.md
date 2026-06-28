@@ -3,7 +3,11 @@
 
 # 👋 Hi There! I'm Sayan
 
-Frontend Systems Engineer building scalable, reliable products with React and TypeScript. Open to engineering roles where I can solve real-world problems, collaborate with strong teams, and grow as a software development engineer.
+Software Engineer. I love building, breaking, and shipping things.
+
+- I tinker with React, TypeScript, and React Native.
+- I believe in shipping clean, production-ready code over cutting corners.
+- Currently owning UI and mobile app deployments at Perccent, having shipped fintech flows: KYC, investor onboarding, and mutual fund systems.
 
 <p align="left">
   <a href="https://isayanpal.site" target="_blank">
