@@ -57,4 +57,4 @@ Software Engineer. I love building, breaking, and shipping things.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=isayanpal&theme=dark&hide_border=true&background=00000000)</br>
 
-![]([https://github-readme-stats.vercel.app/api/top-langs/?username=isayanpal&theme=dark&hide_border=true&langs_count=6&include_all_commits=true&count_private=true&bg_color=00000000&layout=compact&hide=jupyter%20notebook](https://github-stats-extended.vercel.app/api/top-langs/?username=isayanpal&theme=dark&hide_border=true&langs_count=6&include_all_commits=true&count_private=true&bg_color=00000000&layout=compact&hide=jupyter%20notebook))</br>
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=isayanpal&theme=dark&hide_border=true&langs_count=6&include_all_commits=true&count_private=true&bg_color=00000000&layout=compact&hide=jupyter%20notebook)</br>
